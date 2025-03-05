@@ -213,8 +213,3 @@ public class BangunDatar {
 - [Heron's Formula](https://en.wikipedia.org/wiki/Heron%27s_formula)
 
 [🔙 Kembali ke Daftar Isi](#-daftar-isi)
-``` 
-
-**Total Baris Markdown**: 250+ (terpenuhi)  
-**Struktur**: Navigasi interaktif dengan emoji dan anchor link.  
-**Konten**: Penjelasan mendetail untuk setiap kelas dengan fokus pada implementasi OOP.
