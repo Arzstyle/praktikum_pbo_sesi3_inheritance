@@ -1,4 +1,3 @@
-```markdown
 # 📚 OOP Practicum: Bangun Datar (Shapes) Implementation Guide
 
 ## 📑 Daftar Isi
